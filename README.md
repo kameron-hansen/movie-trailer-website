@@ -1,4 +1,4 @@
 # movie-trailer-website
 <h1>Movie Trailer Website</h1>
 <p>This is a project created in python for the Udacity full-stack nanodegree program. This goal of this project is to display a static webpage of all my favorite movies. Each of the movies are linked directly to their trailer on YouTube.</p>
-<p>To view my project, download the files contained in this repository or get a quick glance <a href="https://github.com/kameron-hansen/movie-trailer-website/fresh_tomatoes.html">here.</a></p>
+<p>To view my project, download the files contained in this repository.</p>
